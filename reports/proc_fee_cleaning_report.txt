@@ -1,0 +1,13 @@
+Loaded 975 rows, 10 columns from source.
+MEMFEE ID duplicates: 0 (should be 0 - it's the row's primary key).
+CONTROL NO: cleaned duplicated/garbled entries (792 non-null before -> 784 after; drops are cells that contained only stray characters, no real number).
+
+7 row(s) are empty stub records (no MEMBER) - flagged, excluded from aggregation.
+33 row(s) have a MEMBER but no AMOUNT recorded - flagged, treated as 0 in aggregation totals but kept visibly separate from real zero-amount entries.
+20 row(s) explicitly record AMOUNT = 0.
+1 row(s) have a positive AMOUNT but no PAYED DATE.
+
+Saved cleaned row-level file: /mnt/user-data/outputs/proc_fee_cleaned.csv (975 rows).
+
+GRAND TOTAL processing fees collected (empty stub rows excluded, missing-amount rows counted as 0): 2,906,322.00 across 968 entries, 373 distinct members.
+Saved aggregation workbook: /mnt/user-data/outputs/proc_fee_aggregated.xlsx (sheets: By Member, By Year-Month, By Year, Data Quality Flags).
