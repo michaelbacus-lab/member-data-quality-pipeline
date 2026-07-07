@@ -1,0 +1,461 @@
+MEMBER ID,PICTURE,SEX,TITLE,FIRSTNAME,LASTNAME,MIDDLE NAME,FULLNAMES,ADDRESS,PROJECT,DATE OF BIRTH,SOCIAL STATUS,MONTHLY INCOME,CONTACT NO,WAIVER OF RIGHTS,STATUS,NOTES,DATE ENCODED,ENCODED BY,FB LINK,PAID,BENEFICIARY PROFILE,BIRTH CERTIFICATE,RESERVATION AGREEMENT,ID PICTURE,SINUMPAANG SALAYSAY,MARRIAGE CERTIFICATE,OCCUPATION,RELIGION,MEMBERSHIP FEE,PROCESSING FEE,YEARS TO PAY 1,Date Created,Created By,Date Updated,Updated By,Company Name,Office Address,FULLNAME,POSSIBLE_DUPLICATE
+45,,,,Jon,Yang,K,,"Purok 8, Brgy. MEMBER ID, , FEMALE",MASAO,,Married,0.0,,False,Active,"WALA, PA COTRATA, WALA DIN SA ACTUAL SURVEY LISTT",2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-13,,,,Yang Jon,False
+46,,FEMALE,Mrs.,Eugene,Huang,Q,,"Purok 6, Brgy. 46, ,",MASAO,1983-03-22,Married,30000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,False,,,False,False,,,,,,,,Huang Eugene,False
+47,,MALE,Mr.,Ruben,Torres,D,,"Purok 8, Brgy. 49, ,",MASAO,1978-08-01,Married,12000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,True,TRICYCLE DRIVER,CATHOLIC,True,True,,,,,,,,Torres Ruben,False
+48,,MALE,Mr.,Christy,Zhu,Y,,"Purok 10, Brgy. 46, , MALE",MASAO,1950-04-03,Married,50000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,True,,RC,True,True,,,,,,,,Zhu Christy,False
+49,,FEMALE,Mrs.,Elizabeth,Johnson,H,,"Purok 12, Brgy. 49, ,",MASAO,1979-06-04,Married,10000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,True,False,NONE,CATHOLIC,True,True,,,,,,,,Johnson Elizabeth,False
+50,,FEMALE,Mrs.,Julio,Ruiz,U,,"Purok 11, Brgy. 51, PICTURE,",MASAO,1962-11-30,Single,0.0,,True,Active,ANG LUPA DATI AY KAY TEOFILI ROMERO,2024-06-20,Ricz Gasul,,False,True,True,True,True,True,False,,CATHOLIC,False,False,,,,,,,,Ruiz Julio,False
+51,,FEMALE,Mrs.,Janet,Alvarez,R,,"Purok 9, Brgy. 49, , FEMALE",MASAO,1952-04-18,Married,30000.0,,False,InActive,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,AFP SOLDIER,,False,False,,,,,,,,Alvarez Janet,False
+52,,FEMALE,Mrs.,Marco,Mehta,A,,"Purok 4, Brgy. 49, , MALE",MASAO,1984-12-25,Married,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,True,False,True,False,False,,,False,False,,,,,,,,Mehta Marco,False
+53,,MALE,Mr.,Rob,Verhoff,Y,,"Purok 9, Brgy. 45, ,",MASAO,,Married,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Verhoff Rob,False
+54,,MALE,Mr.,Shannon,Carlson,X,,"Purok 2, Brgy. 47, , FEMALE",MASAO,1988-12-19,Single,15000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,False,,CATHOLIC,True,True,,,,,,,,Carlson Shannon,False
+55,,MALE,Mr.,Jacquelyn,Suarez,F,,"Purok 5, Brgy. 48, ,",MASAO,1979-10-23,Single,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Suarez Jacquelyn,False
+56,,FEMALE,Mrs.,Curtis,Lu,L,,"Purok 8, Brgy. 51, , SEX",MASAO,1955-08-26,Married,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lu Curtis,False
+57,,MALE,Mr.,Lauren,Walker,L,,"Purok 9, Brgy. 47, , FEMALE",MASAO,1991-06-02,Single,22000.0,,False,Active,,2024-06-20,Ricz Gasul,,False,True,True,False,False,False,False,FACTORY WORKER,,False,False,,,,,,,,Walker Lauren,False
+58,,FEMALE,Mrs.,Ian,Jenkins,U,,"Purok 7, Brgy. 45, ,",MASAO,,,,,False,,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-13,,,,Jenkins Ian,False
+59,,FEMALE,Mrs.,Sydney,Bennett,B,,"Purok 1, Brgy. 47, , FEMALE",MASAO,2017-04-20,,0.0,,False,Active,,2024-06-20,Ricz Gasul,#https://www.facebook.com/trinidad.ferol/photos#,False,False,False,False,False,False,False,,,False,False,,,,,,,,Bennett Sydney,False
+60,,FEMALE,,Chloe,Young,O,,"Purok 12, Brgy. 46, , FEMALE",MASAO,1970-02-14,Married,19800.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,True,MASON,,True,True,,,,,,,,Young Chloe,False
+61,,MALE,Mr.,Wyatt,Hill,R,,"Purok 10, Brgy. MEMBER ID, , SEX",MASAO,1979-02-14,Married,16000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,True,FACTORY WORKER,CATHOLIC,True,True,,,,,,,,Hill Wyatt,False
+62,,MALE,Mr.,Shannon,Wang,L,,"Purok 5, Brgy. 45, , SEX",MASAO,1957-04-12,Married,15000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,,,True,True,,,,,,,,Wang Shannon,False
+63,,FEMALE,Mrs.,Clarence,Rai,J,,"Purok 4, Brgy. 50, ,",MASAO,1955-02-26,Single,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rai Clarence,False
+64,,FEMALE,Mrs.,Luke,Lal,E,,"Purok 11, Brgy. MEMBER ID, , FEMALE",MASAO,1955-02-26,Married,4000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,False,,CATHOLIC,True,True,,,,,,,,Lal Luke,False
+65,,MALE,Mr.,Jordan,King,A,,"Purok 8, Brgy. 52, , MALE",MASAO,1965-01-21,Married,12000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,True,True,,,True,True,,,,,,,,King Jordan,False
+66,,FEMALE,Ms.,Destiny,Wilson,L,,"Purok 8, Brgy. 46, , MALE",MASAO,1991-10-03,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-13,,,,Wilson Destiny,False
+67,,FEMALE,Mrs.,Ethan,Zhang,P,,"Purok 1, Brgy. MEMBER ID, , FEMALE",MASAO,1970-07-06,Single,0.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,False,FACTORY WORKER,RIC,True,True,,,,,,,,Zhang Ethan,False
+68,,MALE,Mr.,Seth,Edwards,W,,"Purok 4, Brgy. MEMBER ID, , MALE",MASAO,2004-03-31,Married,13000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,False,False,True,,,False,False,,,,,,,,Edwards Seth,False
+69,,MALE,Mrs.,Russell,Xie,V,,"Purok 2, Brgy. 51, ,",MASAO,1959-12-15,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,True,False,True,,,True,True,,,,,,,,Xie Russell,False
+70,,FEMALE,Ms.,Alejandro,Beck,E,,"Purok 6, Brgy. 45, , MALE",MASAO,1975-02-05,Single,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Beck Alejandro,False
+71,,FEMALE,Ms.,Harold,Sai,A,,"Purok 8, Brgy. 51, , MALE",MASAO,1975-01-09,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sai Harold,False
+72,,MALE,Mr.,Jessie,Zhao,E,,"Purok 5, Brgy. 46, , FEMALE",MASAO,1999-07-10,Married,22500.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,SEWER,CATHOLIC,True,True,,,,,,,,Zhao Jessie,False
+73,,MALE,Mr.,Jill,Jimenez,L,,"Purok 1, Brgy. 52, , MALE",MASAO,1993-01-03,Married,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,True,True,SELF EMPLOYED,CATHOLIC,False,False,,,,,,,,Jimenez Jill,False
+74,,MALE,Mr.,Jimmy,Moreno,H,,"Purok 7, Brgy. 50, PICTURE,",MASAO,2002-02-25,,0.0,,False,Active,"Mali ang date ""2034"" compution sa HardCopy ng Contrata",2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Moreno Jimmy,False
+75,,FEMALE,Ms.,Bethany,Yuan,A,,"Purok 1, Brgy. 50, , FEMALE",MASAO,1975-02-05,,0.0,,False,Active,,2024-06-20,Ricz Gasul,#https://www.facebook.com/mhariesha#,False,True,True,False,False,False,False,,,False,False,,,,,,,,Yuan Bethany,False
+76,,MALE,Mr.,Theresa,Ramos,Y,,"Purok 3, Brgy. 48, , FEMALE",MASAO,2001-09-29,Single,10000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,True,False,,METODIST,True,True,,,,,,,,Ramos Theresa,False
+77,,MALE,Mr.,Denise,Stone,E,,"Purok 2, Brgy. 48, , SEX",MASAO,,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Stone Denise,False
+78,,FEMALE,Ms.,Jaime,Nath,H,,"Purok 3, Brgy. 47, PICTURE, FEMALE",MASAO,2000-03-29,Single,25000.0,,True,Active,,2024-06-20,Ricz Gasul,#https://www.facebook.com/profile.php?id=100094908460667&sk=photos#,False,True,True,True,True,False,False,SELF EMPLOYED,CATHOLIC,True,True,,,,,,,,Nath Jaime,False
+79,,MALE,Mr.,Ebony,Gonzalez,E,,"Purok 6, Brgy. 52, , MALE",MASAO,1964-11-09,Widow,24000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,True,True,MEAT VENDOR,CATHOLIC,True,True,,,,,,,,Gonzalez Ebony,False
+80,,MALE,Mr.,Wendy,Dominguez,T,,"Purok 1, Brgy. 47, , MALE",MASAO,1980-06-09,Married,25683.0,,True,Active,"Hardcopy contract, 3,350 monthly amortization",2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,,,False,False,,,,,,,,Dominguez Wendy,False
+81,,FEMALE,Mrs.,Jennifer,Russell,C,,"Purok 9, Brgy. 47, , MALE",MASAO,1964-11-09,,0.0,,False,Active,"7,833.33 hindi tugma ang computation sa computer monthly",2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Russell Jennifer,False
+82,,MALE,Mr.,Chloe,Garcia,W,,"Purok 6, Brgy. 46, , FEMALE",MASAO,1964-02-12,Married,41500.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,CONSTRUCTION WAKER,PROTESTANTE,False,False,,,,,,,,Garcia Chloe,False
+83,,FEMALE,Ms.,Diana,Hernandez,F,,"Purok 10, Brgy. 47, , FEMALE",MASAO,1976-12-25,,12000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,False,False,False,,,False,False,,,,,,,,Hernandez Diana,False
+84,,MALE,Mr.,Marc,Martin,Y,,"Purok 4, Brgy. 51, PICTURE,",MASAO,1986-04-21,Single,7500.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,False,,CATHOLIC,True,True,,,,,,,,Martin Marc,False
+85,,FEMALE,Ms.,Jesse,Murphy,R,,"Purok 1, Brgy. 47, , MALE",MASAO,1991-05-31,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Murphy Jesse,False
+86,,FEMALE,Ms.,Amanda,Carter,K,,"Purok 3, Brgy. 48, , FEMALE",MASAO,1991-05-31,Single,13000.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,True,False,False,,CATHOLIC,True,True,,,,,,,,Carter Amanda,False
+87,,MALE,Mr.,Megan,Sanchez,H,,"Purok 7, Brgy. 51, , FEMALE",MASAO,1955-10-15,Married,12000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,SELF EMPLOYED,CATHOLIC,True,True,,,,,,,,Sanchez Megan,False
+88,,FEMALE,Mrs.,Nathan,Simmons,L,,"Purok 1, Brgy. 49, PICTURE, MALE",MASAO,1967-12-02,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Simmons Nathan,False
+89,,FEMALE,Ms.,Adam,Flores,A,,"Purok 6, Brgy. MEMBER ID, , SEX",MASAO,1958-07-01,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Flores Adam,False
+90,,FEMALE,Ms.,Leonard,Nara,U,,"Purok 3, Brgy. 47, , SEX",MASAO,1994-01-27,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Nara Leonard,False
+91,,FEMALE,Ms.,Christine,Yuan,H,,"Purok 2, Brgy. 51, ,",MASAO,1977-03-11,Married,13000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,True,True,FACTORY WORKER,,False,False,,,,,,,,Yuan Christine,False
+92,,FEMALE,Mrs.,Jaclyn,Lu,E,,"Purok 4, Brgy. 48, ,",MASAO,1925-01-22,Married,11960.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,FACTORY WORKER,CATHOLIC,True,True,,,,,,,,Lu Jaclyn,False
+93,,FEMALE,Mrs.,Jeremy,Powell,P,,"Purok 1, Brgy. MEMBER ID, , MALE",MASAO,1977-11-28,Married,15700.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,PENSIONER,CATHOLIC,True,True,,,,,,,,Powell Jeremy,False
+94,,MALE,Mr.,Carol,Rai,L,,"Purok 7, Brgy. 49, , MALE",MASAO,1975-01-22,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rai Carol,False
+95,,FEMALE,Ms.,Alan,Zheng,H,,"Purok 5, Brgy. 51, , FEMALE",MASAO,,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zheng Alan,False
+96,,FEMALE,Ms.,Daniel,Johnson,B,,"Purok 2, Brgy. 49, , FEMALE",MASAO,1967-04-20,Married,15000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,,,False,False,,,,,,,,Johnson Daniel,False
+97,,FEMALE,Mrs.,Heidi,Lopez,E,,"Purok 7, Brgy. 48, ,",MASAO,1969-04-20,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lopez Heidi,False
+98,,MALE,Mr.,Ana,Price,X,,"Purok 12, Brgy. MEMBER ID, , MALE",MASAO,1973-02-14,Married,30000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,True,False,True,,CATHOLIC,False,False,,,,,,,,Price Ana,False
+99,,FEMALE,Mr.,Deanna,Munoz,C,,"Purok 10, Brgy. MEMBER ID, , SEX",MASAO,1987-07-13,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Munoz Deanna,False
+100,,FEMALE,Ms.,Gilbert,Raje,P,,"Purok 6, Brgy. 53, , MALE",MASAO,1990-12-22,,0.0,,False,Active,,2024-06-20,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Raje Gilbert,False
+101,,MALE,Mr.,Michele,Nath,U,,"Purok 3, Brgy. 46, , SEX",MASAO,1975-07-23,Widow,23000.0,,False,Active,,2024-06-20,Ricz Gasul,,False,True,False,True,False,True,False,SECURITY GUARD,CATHOLIC,False,False,,,,,,,,Nath Michele,False
+103,,FEMALE,Ms.,Carl,Andersen,R,,"Purok 10, Brgy. 48, ,",MASAO,1967-12-02,Married,20000.0,,True,Active,,2024-06-20,Ricz Gasul,,False,True,True,True,True,False,True,WATER REFILING OWNER,CATHOLIC,False,False,,,,,,,,Andersen Carl,False
+312,,,,Marc,Diaz,F,,"Purok 10, Brgy. 46, , SEX",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Diaz Marc,False
+313,,,,Ashlee,Andersen,Z,,"Purok 9, Brgy. 48, , SEX",BANCASI,1989-06-21,Single,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,False,LGU MARIVELES,CATHOLIC,False,True,,,,2024-11-25,,,,Andersen Ashlee,False
+315,,,,Jon,Zhou,S,,"Purok 9, Brgy. 47, , MALE",BANCASI,1974-07-02,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,True,True,True,True,True,True,False,,CATHOLIC,False,True,,,,2024-11-25,,,,Zhou Jon,False
+316,,,,Todd,Gao,F,,"Purok 9, Brgy. 46, , FEMALE",BANCASI,1960-10-17,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Gao Todd,False
+317,,,,Noah,Powell,B,,"Purok 9, Brgy. MEMBER ID, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Powell Noah,False
+319,,,,Angela,Murphy,N,,"Purok 4, Brgy. 49, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Murphy Angela,False
+320,,,,Chase,Reed,F,,"Purok 3, Brgy. 45, , FEMALE",BANCASI,,Single,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,False,,,False,False,,,,2024-11-25,,,,Reed Chase,False
+322,,,,Jessica,Henderson,I,,"Purok 8, Brgy. 50, , MALE",BANCASI,1979-06-19,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Henderson Jessica,False
+323,,,,Grace,Butler,B,,"Purok 8, Brgy. 45, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Butler Grace,False
+324,,,,Caleb,Carter,Y,,"Purok 9, Brgy. 48, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Carter Caleb,False
+326,,,,Tiffany,Liang,M,,"Purok 2, Brgy. 50, , FEMALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Liang Tiffany,False
+327,,,,Carolyn,Navarro,L,,"Purok 1, Brgy. 52, , FEMALE",BANCASI,1979-04-05,Married,14780.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,False,True,True,False,True,FACTORY WORKER,CATHOLIC,False,False,,,,,,,,Navarro Carolyn,False
+328,,,,Willie,Raji,Y,,"Purok 4, Brgy. MEMBER ID, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Raji Willie,False
+329,,,,Linda,Serrano,K,,"Purok 6, Brgy. 49, , SEX",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Serrano Linda,False
+330,,,,Casey,Luo,R,,"Purok 7, Brgy. 47, , SEX",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Luo Casey,False
+332,,,,Amy,Ye,N,,"Purok 1, Brgy. 48, , MALE",BANCASI,1982-07-28,Single,0.0,,False,InActive,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,False,FACTORY WORKER,CATHOLIC,False,False,,,,2024-11-25,,,,Ye Amy,False
+333,,,,Levi,Arun,B,,"Purok 12, Brgy. 51, , MALE",BANCASI,1976-05-20,Married,20000.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,HOUSEWIFE,CATHOLIC,True,True,,,,2024-11-25,,,,Arun Levi,False
+334,,,,Felicia,Jimenez,S,,"Purok 7, Brgy. 52, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jimenez Felicia,False
+335,,,,Blake,Anderson,G,,"Purok 12, Brgy. 45, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Anderson Blake,False
+336,,,,Leah,Ye,Y,,"Purok 8, Brgy. 49, , FEMALE",BANCASI,,Married,0.0,,False,,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Ye Leah,False
+337,,,,Gina,Martin,E,,"Purok 2, Brgy. 53, , MALE",BANCASI,,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Martin Gina,False
+338,,,,Donald,Gonzalez,M,,"Purok 2, Brgy. 51, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gonzalez Donald,False
+339,,,,Damien,Chander,C,,"Purok 7, Brgy. 46, , MALE",BANCASI,,Married,0.0,,False,InActive,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Chander Damien,False
+340,,,,Savannah,Baker,S,,"Purok 6, Brgy. 52, PICTURE, MALE",BANCASI,,Married,0.0,,False,InActive,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Baker Savannah,False
+341,,,,Angela,Butler,T,,"Purok 12, Brgy. 51, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Butler Angela,False
+342,,,,Alyssa,Cox,D,,"Purok 9, Brgy. 46, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Cox Alyssa,False
+344,,,,Lucas,Phillips,S,,"Purok 9, Brgy. 47, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Phillips Lucas,False
+345,,,,Emily,Johnson,F,,"Purok 1, Brgy. 46, PICTURE,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,False,,,False,False,,,,2024-11-25,,,,Johnson Emily,False
+346,,,,Ryan,Brown,J,,"Purok 7, Brgy. 50, ,",BANCASI,,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Brown Ryan,False
+347,,,,Tamara,Liang,O,,"Purok 11, Brgy. 52, , MALE",BANCASI,1974-05-28,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,DETAL TECH,IGLESIA NI CRISTO,False,True,,,,2024-11-25,,,,Liang Tamara,False
+348,,,,Hunter,Davis,U,,"Purok 6, Brgy. 52, , FEMALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Davis Hunter,False
+349,,,,Abigail,Price,G,,"Purok 1, Brgy. 50, , MALE",BANCASI,1979-10-16,Married,30000.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,FARMER,CATHOLIC,False,True,,,,2024-11-25,,,,Price Abigail,False
+350,,,,Trevor,Bryant,K,,"Purok 3, Brgy. 48, , SEX",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Bryant Trevor,False
+351,,,,Dalton,Perez,K,,"Purok 6, Brgy. 49, , FEMALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Perez Dalton,False
+352,,,,Cheryl,Diaz,T,,"Purok 9, Brgy. 52, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,True,False,,,,,,,,Diaz Cheryl,False
+354,,,,Aimee,He,E,,"Purok 11, Brgy. MEMBER ID, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,He Aimee,False
+355,,,,Cedric,Ma,W,,"Purok 2, Brgy. 46, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ma Cedric,False
+356,,,,Chad,Kumar,X,,"Purok 12, Brgy. 46, , FEMALE",BANCASI,1969-02-10,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,CATHOLIC,True,True,,,,2024-11-25,,,,Kumar Chad,False
+357,,,,AndrÃ©s,Anand,P,,"Purok 5, Brgy. 46, , SEX",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,,,,2024-11-25,,,,Anand AndrÃ©s,False
+358,,,,Edwin,Nara,T,,"Purok 9, Brgy. 51, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Nara Edwin,False
+359,,,,Mallory,Rubio,V,,"Purok 5, Brgy. 46, , MALE",BANCASI,1978-11-26,Single,1.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,False,True,True,True,False,13000,CATHOLIC,False,True,,,,2024-11-25,,,,Rubio Mallory,False
+360,,,,Adam,Ross,B,,"Purok 9, Brgy. 53, , SEX",BANCASI,1975-04-29,Married,40000.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,False,True,False,False,SELF EMPLOYEE,CATHOLIC,False,False,,,,,,,,Ross Adam,False
+361,,,,Latasha,Navarro,L,,"Purok 7, Brgy. 51, , FEMALE",BANCASI,,,0.0,,False,InActive,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Navarro Latasha,False
+362,,,,Abby,Sai,K,,"Purok 2, Brgy. 48, ,",BANCASI,,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Sai Abby,False
+363,,,,Julia,Nelson,P,,"Purok 5, Brgy. 45, , FEMALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Nelson Julia,False
+364,,,,Cassie,Chande,N,,"Purok 5, Brgy. 46, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Chande Cassie,False
+365,,,,Edgar,Sara,G,,"Purok 7, Brgy. 53, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sara Edgar,False
+366,,,,Candace,Fernandez,P,,"Purok 9, Brgy. 47, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Fernandez Candace,False
+367,,,,Jessie,Liu,R,,"Purok 10, Brgy. 47, , FEMALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Liu Jessie,False
+368,,,,Bianca,Lin,T,,"Purok 1, Brgy. 47, ,",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lin Bianca,False
+369,,,,Kari,Alvarez,R,,"Purok 9, Brgy. 46, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Alvarez Kari,False
+370,,,,Ruben,Kapoor,N,,"Purok 7, Brgy. 49, , MALE",BANCASI,1983-01-17,Married,35000.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,False,True,SARI-SARI STORE,CATHOLIC,False,True,,,,2024-11-25,,,,Kapoor Ruben,False
+371,,,,Curtis,Yang,G,,"Purok 1, Brgy. 46, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Yang Curtis,False
+372,,,,Meredith,Gutierrez,Q,,"Purok 5, Brgy. 52, , MALE",BANCASI,,,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gutierrez Meredith,False
+373,,,,Crystal,Wang,K,,"Purok 1, Brgy. 46, , MALE",BANCASI,,Married,0.0,,False,Active,,2024-06-28,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Wang Crystal,False
+485,,,,Micheal,Blanco,J,,"Purok 6, Brgy. 50, ,",,,,0.0,,False,InActive,,2024-07-18,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Blanco Micheal,False
+498,,,,Leslie,Moreno,X,,"Purok 10, Brgy. 47, , SEX",MASAO,1979-01-04,,14000.0,,False,InActive,,2024-07-31,Ricz Gasul,,False,True,True,True,True,False,True,,,False,False,,,,,,,,Moreno Leslie,False
+499,,,,Alvin,Cai,I,,"Purok 4, Brgy. 51, , MALE",MASAO,,Married,0.0,,False,Active,,2024-07-31,Ricz Gasul,,False,True,True,True,True,True,True,,,True,True,,,,2024-11-25,,,,Cai Alvin,False
+501,,,,Clinton,Carlson,M,,"Purok 10, Brgy. 53, , MALE",MASAO,1979-08-22,Married,52000.0,,True,,,2024-07-31,Ricz Gasul,,False,True,True,True,True,False,True,,,False,False,,,,,,,,Carlson Clinton,False
+502,,,,April,Deng,T,,"Purok 3, Brgy. 53, , MALE",MASAO,,,0.0,,False,,,2024-07-31,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Deng April,False
+504,,,,Alvin,Zeng,D,,"Purok 10, Brgy. 51, ,",MASAO,1977-05-23,Married,17000.0,,False,,,2024-07-31,Ricz Gasul,,False,True,True,True,False,False,False,,,False,False,,,,,,,,Zeng Alvin,False
+505,,,,Evan,James,M,,"Purok 2, Brgy. 51, , MALE",MASAO,1963-11-15,Married,23000.0,,True,,,2024-08-01,Ricz Gasul,,False,True,True,True,True,False,True,AGRICULTURE,CATHOLIC,True,True,,,,,,,,James Evan,False
+506,,,,Beth,JimÃ©nez,C,,"Purok 9, Brgy. 49, , SEX",MASAO,2005-11-15,Single,10000.0,,True,,DAUTHER OF MRS.CARAZON L. SANTOS,2024-08-01,Ricz Gasul,,False,True,True,True,True,False,False,ONLINE SELLER,IGLESIA NI CRISTO,False,False,,,,,,,,JimÃ©nez Beth,False
+507,,,,Orlando,Suarez,T,,"Purok 11, Brgy. MEMBER ID, , SEX",MASAO,1974-06-27,Married,25000.0,,False,,,2024-08-01,Ricz Gasul,,False,True,False,False,True,True,True,FISHING BOAT ONWER,CATHOLIC,True,False,,,,,,,,Suarez Orlando,False
+508,,,,Byron,Vazquez,M,,"Purok 9, Brgy. 49, , MALE",MASAO,1981-05-24,Single,20000.0,,True,,,2024-08-01,Ricz Gasul,,False,True,True,True,True,False,False,OFW,CATHOLIC,True,True,,,,,,,,Vazquez Byron,False
+509,,,,Philip,Alvarez,G,,"Purok 12, Brgy. 47, , SEX",MASAO,1989-04-28,Married,20000.0,,True,Active,,2024-08-01,Ricz Gasul,,False,True,False,True,True,False,True,MAINTENANCE,CATHOLIC,False,False,,,,,,,,Alvarez Philip,False
+510,,,,Ross,Jordan,U,,"Purok 10, Brgy. 49, PICTURE, MALE",MASAO,,Widow,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,True,False,True,,,True,True,,,,,,,,Jordan Ross,False
+512,,,,Dana,Navarro,Q,,"Purok 12, Brgy. 45, , MALE",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Navarro Dana,False
+513,,,,Shaun,Carson,Y,,"Purok 8, Brgy. 52, , MALE",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Carson Shaun,False
+514,,,,Jan,Edwards,U,,"Purok 1, Brgy. 46, , MALE",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Edwards Jan,False
+515,,,,Samantha,Long,E,,"Purok 9, Brgy. 48, ,",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Long Samantha,False
+516,,,,Julia,Wright,X,,"Purok 4, Brgy. 46, PICTURE, SEX",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Wright Julia,False
+517,,,,Caroline,Russell,Z,,"Purok 9, Brgy. 48, ,",,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Russell Caroline,False
+518,,,,Amanda,Rivera,C,,"Purok 5, Brgy. 45, , FEMALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rivera Amanda,False
+519,,,,Melissa,Richardson,M,,"Purok 2, Brgy. 48, , MALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Richardson Melissa,False
+520,,,,Angela,Griffin,C,,"Purok 9, Brgy. 50, , MALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,True,True,True,True,True,False,,,True,True,,,,,,,,Griffin Angela,False
+530,,,,Larry,Townsend,B,,"Purok 1, Brgy. 49, , MALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Townsend Larry,False
+532,,,,Marcus,Harris,K,,"Purok 12, Brgy. 50, , FEMALE",MASAO,1980-03-21,Married,15000.0,,False,,,2024-08-01,Ricz Gasul,,False,True,True,True,True,False,False,"MASON, CARPENTER",CATHOLIC,False,False,,,,,,,,Harris Marcus,False
+533,,,,Brianna,Morgan,V,,"Purok 3, Brgy. 46, , FEMALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,True,False,False,False,False,False,,,False,False,,,,,,,,Morgan Brianna,False
+534,,,,Jasmine,Taylor,C,,"Purok 4, Brgy. 53, PICTURE, MALE",MASAO,,,0.0,,False,,,2024-08-01,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Taylor Jasmine,False
+535,,FEMALE,,Lauren,Davis,S,,"Purok 1, Brgy. MEMBER ID, , SEX",,,,0.0,,False,,,2024-08-02,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Davis Lauren,False
+536,,,,Tanya,Moreno,R,,"Purok 3, Brgy. MEMBER ID, , SEX",BANCASI,,,0.0,,False,,,2024-08-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Moreno Tanya,False
+537,,,,Javier,Alvarez,D,,"Purok 1, Brgy. 53, , MALE",MASAO,,,0.0,,False,,,2024-08-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Alvarez Javier,False
+539,,,,Nicole,Ramirez,X,,"Purok 9, Brgy. 48, ,",MASAO,,,0.0,,False,,,2024-08-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ramirez Nicole,False
+540,,,,Eduardo,Patterson,R,,"Purok 8, Brgy. 52, , MALE",MASAO,1965-12-12,Widow,17000.0,,False,,,2024-08-06,Ricz Gasul,,False,True,True,True,True,False,False,MUNICIPAL,CATHOLIC,True,False,,,,,,,,Patterson Eduardo,False
+541,,,,Jonathan,Henderson,Z,,"Purok 5, Brgy. 47, , MALE",MASAO,1972-10-27,Single,0.0,,False,,,2024-08-06,Ricz Gasul,,False,True,True,True,True,True,False,TRICYCLE DRIVER,CATHOLIC,False,False,,,,,,,,Henderson Jonathan,False
+542,,,,Edward,Hernandez,U,,"Purok 7, Brgy. 45, , MALE",MASAO,,,0.0,,False,,,2024-08-06,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hernandez Edward,False
+543,,,,Jasmine,Coleman,Z,,"Purok 6, Brgy. 48, , MALE",MASAO,,,0.0,,False,,,2024-08-06,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Coleman Jasmine,False
+544,,,,Karla,Goel,E,,"Purok 9, Brgy. MEMBER ID, ,",MASAO,1980-04-27,Married,11000.0,,False,,,2024-08-06,Ricz Gasul,,False,True,True,True,True,False,True,FACTORY WORKER,CATHOLIC,False,False,,,,,,,,Goel Karla,False
+547,,,,Ernest,Wu,G,,"Purok 5, Brgy. 51, , FEMALE",MASAO,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-13,,,"MARIAH P. BUILDING, NATIONAL ROAD, BRGY. CAPITANGAN, ABUCAY, BATAAN",Wu Ernest,False
+548,,,,Ross,Vazquez,D,,"Purok 2, Brgy. 52, , FEMALE",BANCASI,1969-07-28,Married,20000.0,,False,,,2024-08-08,Ricz Gasul,,False,True,False,True,True,False,True,AULOGID THE BALINGIT,JW,True,False,,,,,,,,Vazquez Ross,False
+549,,,,Theodore,Gill,D,,"Purok 2, Brgy. 45, , SEX",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gill Theodore,False
+550,,,,Russell,Shen,S,,"Purok 5, Brgy. 45, , SEX",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Shen Russell,False
+551,,,,Melinda,Gill,L,,"Purok 10, Brgy. 50, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gill Melinda,False
+552,,,,James,Williams,P,,"Purok 7, Brgy. 46, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Williams James,False
+553,,,,Angela,James,J,,"Purok 10, Brgy. MEMBER ID, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,James Angela,False
+554,,,,Megan,Walker,F,,"Purok 2, Brgy. 45, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Walker Megan,False
+555,,,,Hunter,Robinson,R,,"Purok 3, Brgy. 48, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Robinson Hunter,False
+556,,,,Maria,Roberts,U,,"Purok 11, Brgy. 50, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Roberts Maria,False
+557,,,,Hannah,Long,K,,"Purok 5, Brgy. 47, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Long Hannah,False
+561,,,,Jason,Wright,X,,"Purok 8, Brgy. 53, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Wright Jason,False
+562,,,,Brianna,Hughes,E,,"Purok 5, Brgy. 48, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hughes Brianna,False
+563,,,,Maurice,Tang,I,,"Purok 7, Brgy. 49, PICTURE, MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Tang Maurice,False
+564,,,,Emily,Wood,B,,"Purok 3, Brgy. 46, PICTURE, FEMALE",BANCASI,1982-04-28,Married,30000.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,OFW,CATHOLIC,False,False,,,,2024-11-25,,,,Wood Emily,False
+565,,,,Chase,Cox,Z,,"Purok 9, Brgy. 46, , MALE",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Cox Chase,False
+566,,,,Gabriel,Wang,I,,"Purok 3, Brgy. MEMBER ID, , SEX",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Wang Gabriel,False
+567,,,,Devin,Brooks,Z,,"Purok 5, Brgy. 50, ,",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Brooks Devin,False
+568,,,,Jocelyn,Alexander,R,,"Purok 6, Brgy. 50, ,",BANCASI,1982-06-17,Single,20000.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,FACTORY WORKER,CATHOLIC,True,True,,,,2024-11-25,,,,Alexander Jocelyn,False
+569,,,,Ashley,Martinez,D,,"Purok 12, Brgy. 52, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Martinez Ashley,False
+570,,,,Jasmine,Barnes,O,,"Purok 5, Brgy. 51, , SEX",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Barnes Jasmine,False
+571,,,,David,Rodriguez,H,,"Purok 12, Brgy. 49, , SEX",BANCASI,,,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,"MARIAH P. BUILDING, NATIONAL ROAD, BRGY. CAPITANGAN, ABUCAY, BATAAN",Rodriguez David,False
+572,,,,Bryce,Richardson,H,,"Purok 1, Brgy. 49, PICTURE, MALE",BANCASI,,Married,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Richardson Bryce,False
+573,,,,Carol,Howard,P,,"Purok 11, Brgy. 47, ,",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Howard Carol,False
+574,,,,Jonathan,Hill,Q,,"Purok 5, Brgy. 52, , MALE",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Hill Jonathan,False
+575,,,,Gabrielle,Adams,B,,"Purok 12, Brgy. 48, ,",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Adams Gabrielle,False
+577,,,,Sarah,Thomas,H,,"Purok 11, Brgy. 53, , SEX",BANCASI,1988-12-16,Single,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,,CATHOLIC,False,True,,,,2024-11-25,,,,Thomas Sarah,False
+578,,,,Nicholas,Robinson,T,,"Purok 10, Brgy. 46, , SEX",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Robinson Nicholas,False
+579,,,,Luis,Wang,U,,"Purok 9, Brgy. 47, ,",BANCASI,1995-09-30,Single,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,False,True,False,True,False,True,,,False,False,,,,2024-11-25,,,,Wang Luis,False
+580,,,,Mason,Roberts,F,,"Purok 9, Brgy. 47, , FEMALE",BANCASI,,Single,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,,,,2024-11-25,,,,Roberts Mason,False
+581,,,,Jose,Flores,Y,,"Purok 5, Brgy. MEMBER ID, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,,,True,False,,,,2024-11-25,,,,Flores Jose,False
+582,,,,Nathan,Johnson,C,,"Purok 2, Brgy. 52, ,",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Johnson Nathan,False
+583,,,,Molly,Rodriguez,J,,"Purok 11, Brgy. 48, , MALE",BANCASI,,Single,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,,,,2024-11-25,,,,Rodriguez Molly,False
+584,,,,April,Anand,A,,"Purok 4, Brgy. MEMBER ID, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Anand April,False
+585,,,,Devin,Martin,W,,"Purok 8, Brgy. MEMBER ID, , SEX",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,,,,2024-11-25,,,,Martin Devin,False
+586,,,,Stephanie,Torres,C,,"Purok 3, Brgy. 53, , MALE",MASAO,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,False,,,False,False,,,,,,,,Torres Stephanie,False
+587,,,,Jasmine,Lee,U,,"Purok 9, Brgy. 51, ,",BANCASI,,,,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-13,,,"MARIAH P. BUILDING, NATIONAL ROAD, BRGY. CAPITANGAN, ABUCAY, BATAAN",Lee Jasmine,False
+588,,,,Meghan,Hernandez,Z,,"Purok 7, Brgy. 50, ,",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hernandez Meghan,False
+590,,,,Ashley,Henderson,Z,,"Purok 1, Brgy. 47, ,",BANCASI,1983-08-07,Married,20000.0,,False,,,2024-08-08,Ricz Gasul,,False,True,False,True,True,False,True,VENDOR,,False,False,,,,,,,,Henderson Ashley,False
+591,,,,Sarah,Price,Z,,"Purok 3, Brgy. MEMBER ID, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-22,,,,Price Sarah,False
+592,,,,Jennifer,Cooper,P,,"Purok 7, Brgy. 47, , MALE",BANCASI,,Married,0.0,,False,Active,,2024-08-08,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,,,,2024-11-25,,,,Cooper Jennifer,False
+594,,,,Catherine,Morris,G,,"Purok 6, Brgy. 48, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Morris Catherine,False
+595,,,,Lawrence,Blanco,C,,"Purok 1, Brgy. 53, , FEMALE",BANCASI,1970-07-12,Married,25000.0,,False,,,2024-08-08,Ricz Gasul,,False,True,True,True,True,False,True,DRIVER,BORN AGAIN CHRISTIAN,False,False,,,,,,,,Blanco Lawrence,False
+596,,,,Carson,Bryant,D,,"Purok 2, Brgy. 49, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Bryant Carson,False
+597,,,,Kristi,Perez,B,,"Purok 9, Brgy. 49, , FEMALE",BANCASI,1972-11-15,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,True,False,False,,,False,False,,,,,,,,Perez Kristi,False
+1471,,,,James,Brown,N,,"Purok 10, Brgy. 47, PICTURE, MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Brown James,False
+1472,,,,Ian,Gray,M,,"Purok 2, Brgy. 46, ,",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gray Ian,False
+1473,,,,Jacqueline,Price,U,,"Purok 7, Brgy. MEMBER ID, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Price Jacqueline,False
+1474,,,,Megan,Henderson,N,,"Purok 6, Brgy. MEMBER ID, , SEX",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Henderson Megan,False
+1475,,,,Alfredo,Romero,X,,"Purok 5, Brgy. 47, , MALE",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,True,False,False,False,False,False,False,,,False,False,,,,,,,,Romero Alfredo,False
+1476,,,,Andrea,Morris,J,,"Purok 6, Brgy. 46, ,",BANCASI,,,0.0,,False,,,2024-08-08,Ricz Gasul,,True,False,False,False,False,False,False,,,False,False,,,,,,,,Morris Andrea,False
+1478,,,,Brooke,Sanders,A,,"Purok 4, Brgy. 52, , SEX",MASAO,,,0.0,,False,,,2024-08-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sanders Brooke,False
+1480,,,,Jacqueline,Bennett,B,,"Purok 3, Brgy. 53, , SEX",MASAO,1994-09-22,,0.0,,False,,"UNCERTAIN, NO CONTRACT, WALA SA MARTERLIST",2024-08-12,Ricz Gasul,,False,False,True,False,True,False,False,,,True,True,,,,,,,,Bennett Jacqueline,False
+1658,,,,Jason,Griffin,O,,"Purok 2, Brgy. 53, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Griffin Jason,False
+1659,,,,Amanda,Foster,N,,"Purok 12, Brgy. 51, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-18,,,,Foster Amanda,False
+1660,,,,Alexia,Price,J,,"Purok 9, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Price Alexia,False
+1661,,,,Luis,Diaz,Q,,"Purok 9, Brgy. 45, PICTURE, FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Diaz Luis,False
+1662,,,,Destiny,Rivera,P,,"Purok 11, Brgy. 50, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rivera Destiny,False
+1663,,,,Abby,Fernandez,H,,"Purok 11, Brgy. 53, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,"MARIAH P. BUILDING, NATIONAL ROAD, BRGY. CAPITANGAN, ABUCAY, BATAAN",Fernandez Abby,False
+1664,,,,Blake,Flores,A,,"Purok 1, Brgy. 49, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Flores Blake,False
+1665,,,,Danielle,Cox,K,,"Purok 11, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Cox Danielle,False
+1666,,,,Maria,Reed,G,,"Purok 1, Brgy. 53, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Reed Maria,False
+1667,,,,Allison,Evans,J,,"Purok 5, Brgy. 47, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Evans Allison,False
+1668,,,,Edward,Wood,S,,"Purok 1, Brgy. 47, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-14,,,,Wood Edward,False
+1669,,,,Samantha,Russell,C,,"Purok 7, Brgy. MEMBER ID, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Russell Samantha,False
+1671,,,,Chloe,Campbell,B,,"Purok 3, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Campbell Chloe,False
+1672,,,,Stephanie,Murphy,R,,"Purok 11, Brgy. 46, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Murphy Stephanie,False
+1673,,,,Charles,Miller,R,,"Purok 9, Brgy. 49, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Miller Charles,False
+1674,,,,Ana,Perry,F,,"Purok 1, Brgy. 46, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Perry Ana,False
+1675,,,,Jasmine,Torres,Z,,"Purok 5, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Torres Jasmine,False
+1676,,,,Natalie,Adams,T,,"Purok 5, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Adams Natalie,False
+1677,,,,Olivia,Brown,O,,"Purok 10, Brgy. 49, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Brown Olivia,False
+1678,,,,Charles,Cook,A,,"Purok 11, Brgy. 46, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Cook Charles,False
+1679,,,,Erica,Huang,Z,,"Purok 3, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Huang Erica,False
+1681,,,,Nathan,Perry,Y,,"Purok 11, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Perry Nathan,False
+1682,,,,Alexandra,Rivera,A,,"Purok 10, Brgy. 53, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rivera Alexandra,False
+1683,,,,Hailey,Patterson,F,,"Purok 6, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Patterson Hailey,False
+1684,,,,Tiffany,Li,K,,"Purok 2, Brgy. 50, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Li Tiffany,False
+1685,,,,Madison,Lee,W,,"Purok 11, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lee Madison,False
+1686,,,,Sydney,Ross,M,,"Purok 12, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ross Sydney,False
+1687,,,,Marshall,Chavez,J,,"Purok 1, Brgy. 48, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Chavez Marshall,False
+1689,,,,Ashley,Jones,K,,"Purok 1, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jones Ashley,False
+1690,,,,Adrian,Stewart,Q,,"Purok 5, Brgy. 49, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Stewart Adrian,False
+1693,,,,Amber,Turner,U,,"Purok 10, Brgy. 45, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Turner Amber,False
+1694,,,,Dennis,Zhang,R,,"Purok 9, Brgy. 50, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zhang Dennis,False
+1695,,,,Hailey,Bryant,L,,"Purok 5, Brgy. 51, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Bryant Hailey,False
+1696,,,,Todd,Li,C,,"Purok 3, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Li Todd,False
+1697,,,,Anna,Griffin,L,,"Purok 8, Brgy. 48, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Griffin Anna,False
+1698,,,,Angel,Stewart,W,,"Purok 10, Brgy. 46, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Stewart Angel,False
+1699,,,,Jeremy,Butler,C,,"Purok 12, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Butler Jeremy,False
+1700,,,,Clarence,Anand,U,,"Purok 7, Brgy. 49, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Anand Clarence,False
+1701,,,,Mayra,Prasad,R,,"Purok 6, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Prasad Mayra,False
+1702,,,,Latoya,Goel,G,,"Purok 11, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Goel Latoya,False
+1703,,,,Anne,Hernandez,H,,"Purok 6, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hernandez Anne,False
+1704,,,,Lisa,Cai,V,,"Purok 12, Brgy. 49, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Cai Lisa,False
+1705,,,,Larry,Munoz,B,,"Purok 10, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Munoz Larry,False
+1706,,,,Robin,Alvarez,Y,,"Purok 4, Brgy. 50, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Alvarez Robin,False
+1707,,,,Alexis,Coleman,G,,"Purok 10, Brgy. 48, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Coleman Alexis,False
+1708,,,,Ricky,Vazquez,T,,"Purok 12, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Vazquez Ricky,False
+1709,,,,Latasha,Rubio,M,,"Purok 2, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rubio Latasha,False
+1710,,,,Claudia,Zhou,X,,"Purok 9, Brgy. 45, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zhou Claudia,False
+1711,,,,Tristan,Alexander,Q,,"Purok 8, Brgy. MEMBER ID, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Alexander Tristan,False
+1714,,,,Cindy,Patel,Q,,"Purok 2, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Patel Cindy,False
+1718,,,,Shannon,Liu,W,,"Purok 2, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Liu Shannon,False
+1719,,,,Xavier,Long,F,,"Purok 2, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Long Xavier,False
+1720,,,,Nicholas,Thompson,I,,"Purok 10, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Thompson Nicholas,False
+1721,,,,JosÃ©,Hernandez,K,,"Purok 8, Brgy. 52, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hernandez JosÃ©,False
+1722,,,,Johnathan,Vance,K,,"Purok 7, Brgy. 53, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Vance Johnathan,False
+1724,,,,Colin,Lin,V,,"Purok 3, Brgy. 51, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lin Colin,False
+1725,,,,Katelyn,Hernandez,M,,"Purok 10, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hernandez Katelyn,False
+1726,,,,Jacqueline,Powell,Q,,"Purok 3, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Powell Jacqueline,False
+1727,,,,Xavier,Hill,K,,"Purok 6, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hill Xavier,False
+1728,,,,Victoria,Stewart,E,,"Purok 3, Brgy. 49, PICTURE, FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Stewart Victoria,False
+1729,,,,Katelyn,Kelly,Z,,"Purok 1, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Kelly Katelyn,False
+1730,,,,Stephanie,Collins,O,,"Purok 7, Brgy. 51, PICTURE,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Collins Stephanie,False
+1731,,,,Jennifer,Simmons,K,,"Purok 1, Brgy. 52, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Simmons Jennifer,False
+1732,,,,Trinity,Richardson,J,,"Purok 1, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Richardson Trinity,False
+1733,,,,Eduardo,Martin,O,,"Purok 8, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Martin Eduardo,False
+1735,,,,Elizabeth,Jones,P,,"Purok 11, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jones Elizabeth,False
+1737,,,,Taylor,Howard,I,,"Purok 9, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Howard Taylor,False
+1740,,,,David,Diaz,Q,,"Purok 5, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Diaz David,False
+1742,,,,Katelyn,Carter,I,,"Purok 2, Brgy. 45, ,",RIZAL,1998-11-22,,14000.0,,False,,,2024-08-12,Ricz Gasul,,False,True,True,True,True,True,False,,,True,True,,,,2024-11-18,,,,Carter Katelyn,False
+1743,,,,Ryan,Foster,R,,"Purok 12, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Foster Ryan,False
+1744,,,,Robert,Lee,J,,"Purok 8, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lee Robert,False
+1745,,,,Danielle,Reed,X,,"Purok 6, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Reed Danielle,False
+1746,,,,Lauren,Martinez,X,,"Purok 1, Brgy. 46, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Martinez Lauren,False
+1747,,,,Nathan,Lal,E,,"Purok 9, Brgy. 53, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lal Nathan,False
+1748,,,,Kyle,Foster,G,,"Purok 10, Brgy. 51, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Foster Kyle,False
+1752,,,,Jenny,Rai,D,,"Purok 4, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rai Jenny,False
+1753,,,,Nancy,Chapman,U,,"Purok 2, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Chapman Nancy,False
+1758,,,,Charles,Jackson,X,,"Purok 1, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jackson Charles,False
+1759,,,,Jonathan,Phillips,M,,"Purok 6, Brgy. 52, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Phillips Jonathan,False
+1760,,,,Amanda,Cook,B,,"Purok 7, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Cook Amanda,False
+1761,,,,Robert,Collins,X,,"Purok 11, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Collins Robert,False
+1762,,,,Megan,Barnes,O,,"Purok 4, Brgy. 47, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Barnes Megan,False
+1763,,,,Christian,Thomas,H,,"Purok 6, Brgy. 48, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Thomas Christian,False
+1764,,,,Arturo,Lal,R,,"Purok 12, Brgy. 49, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lal Arturo,False
+1765,,,,Theresa,Serrano,U,,"Purok 10, Brgy. 47, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Serrano Theresa,False
+1766,,,,Jeremy,Anderson,U,,"Purok 12, Brgy. 48, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Anderson Jeremy,False
+1767,,,,Hunter,Griffin,V,,"Purok 10, Brgy. 53, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Griffin Hunter,False
+1768,,,,Henry,Garcia,Y,,"Purok 7, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Garcia Henry,False
+1769,,,,Cindy,Sanchez,X,,"Purok 11, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sanchez Cindy,False
+1770,,,,Maria,Carter,L,,"Purok 4, Brgy. 50, , SEX",RIZAL,1980-09-14,Married,0.0,,False,,,2024-08-12,Ricz Gasul,,False,True,True,True,True,False,True,,,False,False,,,,2024-11-18,,,,Carter Maria,False
+1771,,,,Katelyn,Sanchez,T,,"Purok 10, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sanchez Katelyn,False
+1773,,,,Jenna,Wright,D,,"Purok 11, Brgy. 45, PICTURE,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Wright Jenna,False
+1774,,,,Seth,Phillips,Y,,"Purok 9, Brgy. 49, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Phillips Seth,False
+1775,,,,Luke,Long,I,,"Purok 1, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Long Luke,False
+1776,,,,Dalton,Clark,Q,,"Purok 4, Brgy. 52, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Clark Dalton,False
+1777,,,,Taylor,Lewis,L,,"Purok 10, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lewis Taylor,False
+1778,,,,Haley,Richardson,D,,"Purok 3, Brgy. 46, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Richardson Haley,False
+1779,,,,Noah,Coleman,L,,"Purok 10, Brgy. 53, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Coleman Noah,False
+1780,,,,Jon,Luo,M,,"Purok 8, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Luo Jon,False
+1781,,,,Orlando,Vazquez,E,,"Purok 6, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Vazquez Orlando,False
+1782,,,,Fernando,Barnes,X,,"Purok 2, Brgy. 53, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-18,,,,Barnes Fernando,False
+1783,,,,Cameron,Rodriguez,Y,,"Purok 4, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rodriguez Cameron,False
+1784,,,,Spencer,Russell,H,,"Purok 11, Brgy. 50, PICTURE, FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Russell Spencer,False
+1785,,,,Julia,Coleman,S,,"Purok 5, Brgy. 51, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-18,,,,Coleman Julia,False
+1786,,,,Julia,Garcia,E,,"Purok 4, Brgy. 46, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Garcia Julia,False
+1787,,,,Sean,Evans,W,,"Purok 7, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Evans Sean,False
+1788,,,,Micah,Zhou,T,,"Purok 9, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zhou Micah,False
+1789,,,,Hunter,Rodriguez,S,,"Purok 8, Brgy. 51, , FEMALE",RIZAL,,,0.0,,False,,YUNG BAYAD NYA NAPUNTA NA KAY GANZALES ERMALYN,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-18,,,,Rodriguez Hunter,False
+1790,,,,Ian,Gonzales,C,,"Purok 1, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gonzales Ian,False
+1791,,,,Victoria,Lewis,R,,"Purok 10, Brgy. 52, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lewis Victoria,False
+1792,,,,Erin,Sanders,U,,"Purok 2, Brgy. 53, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Sanders Erin,False
+1793,,,,Gabrielle,Lopez,K,,"Purok 2, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Lopez Gabrielle,False
+1794,,,,Sara,Richardson,A,,"Purok 9, Brgy. 45, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Richardson Sara,False
+1795,,,,Trevor,Jenkins,F,,"Purok 7, Brgy. 52, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jenkins Trevor,False
+1796,,,,Mya,Flores,C,,"Purok 10, Brgy. MEMBER ID, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Flores Mya,False
+1797,,,,Hailey,Ward,I,,"Purok 8, Brgy. 46, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ward Hailey,False
+1798,,,,Luke,Allen,K,,"Purok 11, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Allen Luke,False
+1799,,,,Victoria,Russell,E,,"Purok 12, Brgy. MEMBER ID, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Russell Victoria,False
+1802,,,,Jessica,Wilson,K,,"Purok 6, Brgy. 48, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Wilson Jessica,False
+1803,,,,Jade,Bailey,D,,"Purok 2, Brgy. 53, , SEX",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Bailey Jade,False
+1804,,,,Morgan,Hill,O,,"Purok 10, Brgy. 49, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Hill Morgan,False
+1805,,,,Terrance,Raman,K,,"Purok 4, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Raman Terrance,False
+1806,,,,Sydney,Garcia,W,,"Purok 3, Brgy. 49, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Garcia Sydney,False
+1807,,,,Jose,Patterson,E,,"Purok 10, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Patterson Jose,False
+1808,,,,Zachary,Anderson,E,,"Purok 1, Brgy. 52, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Anderson Zachary,False
+1809,,,,Elijah,Ross,X,,"Purok 12, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ross Elijah,False
+1810,,,,Rafael,Xie,N,,"Purok 7, Brgy. 49, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Xie Rafael,False
+1811,,,,Jaime,Moreno,U,,"Purok 10, Brgy. 47, ,",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Moreno Jaime,False
+1812,,,,Julian,Griffin,R,,"Purok 11, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Griffin Julian,False
+1813,,,,Andy,Alvarez,P,,"Purok 12, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Alvarez Andy,False
+1814,,,,Ryan,Thompson,K,,"Purok 3, Brgy. MEMBER ID, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Thompson Ryan,False
+1815,,,,Samantha,Jenkins,U,,"Purok 4, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jenkins Samantha,False
+1816,,,,Deanna,Ramos,P,,"Purok 7, Brgy. 50, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,"MARIAH P. BUILDING, NATIONAL ROAD, BRGY. CAPITANGAN, ABUCAY, BATAAN",Ramos Deanna,False
+1817,,,,Emily,Miller,P,,"Purok 7, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Miller Emily,False
+1818,,,,Nicole,Brown,M,,"Purok 4, Brgy. 48, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-08-12,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Brown Nicole,False
+1819,,,,Carla,Raman,U,,"Purok 4, Brgy. 53, , MALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Raman Carla,False
+1820,,,,Shaun,Raji,C,,"Purok 7, Brgy. 50, ,",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Raji Shaun,False
+1821,,,,Jerome,Romero,J,,"Purok 4, Brgy. 47, , FEMALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,True,True,True,True,True,False,,,True,False,,,,,,,,Romero Jerome,False
+1822,,,,Frank,Navarro,O,,"Purok 4, Brgy. 51, ,",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Navarro Frank,False
+1823,,,,Dennis,She,N,,"Purok 6, Brgy. MEMBER ID, , FEMALE",MASAO,1982-01-25,Married,0.0,,False,Active,,2024-08-13,Ricz Gasul,,False,True,True,True,True,True,True,,CATHOLIC,False,False,,,,,,,,She Dennis,False
+1824,,,,Melody,Munoz,G,,"Purok 8, Brgy. 45, , SEX",MASAO,,,0.0,,False,Active,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Munoz Melody,False
+1825,,,,Randy,Zeng,E,,"Purok 12, Brgy. 48, , FEMALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zeng Randy,False
+1826,,,,Marshall,Wang,L,,"Purok 3, Brgy. 48, , MALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,True,True,True,True,True,False,,,True,False,,,,,,,,Wang Marshall,False
+1827,,,,Arthur,Carlson,B,,"Purok 11, Brgy. 48, , MALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Carlson Arthur,False
+1828,,,,Jessie,Jimenez,K,,"Purok 7, Brgy. 48, , SEX",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jimenez Jessie,False
+1829,,,,Robin,Ramos,Y,,"Purok 1, Brgy. 46, , MALE",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ramos Robin,False
+1830,,,,Deanna,Gutierrez,L,,"Purok 5, Brgy. 52, ,",MASAO,,,0.0,,False,,,2024-08-13,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gutierrez Deanna,False
+1831,,,,Roy,Navarro,D,,"Purok 11, Brgy. MEMBER ID, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Navarro Roy,False
+1832,,,,Shawn,Rai,B,,"Purok 6, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-08-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rai Shawn,False
+1834,,,,Mindy,Luo,O,,"Purok 3, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-08-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,2024-11-18,,,,Luo Mindy,False
+1835,,,,Cara,Zhou,C,,"Purok 7, Brgy. 48, , SEX",RIZAL,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Zhou Cara,False
+1836,,,,Anne,Ramos,G,,"Purok 2, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ramos Anne,False
+1837,,,,Raymond,Rodriguez,X,,"Purok 2, Brgy. 52, ,",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Rodriguez Raymond,False
+1838,,,,Carrie,Ortega,U,,"Purok 6, Brgy. 50, , MALE",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ortega Carrie,False
+1839,,,,Deanna,Suarez,F,,"Purok 1, Brgy. 48, , FEMALE",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Suarez Deanna,False
+1840,,,,Roberto,Gutierrez,J,,"Purok 6, Brgy. 52, ,",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Gutierrez Roberto,False
+1841,,,,Terrence,Carson,A,,"Purok 9, Brgy. 49, , MALE",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Carson Terrence,False
+1842,,,,Ramon,Ye,N,,"Purok 3, Brgy. 49, ,",BANCASI,,,0.0,,False,,,2024-08-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Ye Ramon,False
+1846,,,,Cynthia,Malhotra,O,,"Purok 5, Brgy. 47, , MALE",BANCASI,,,0.0,,False,,Walang bayad ng Processing Fee,2024-09-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Malhotra Cynthia,False
+1847,,,,Jarrod,Prasad,C,,"Purok 9, Brgy. 48, , SEX",BANCASI,,,0.0,,False,,,2024-09-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Prasad Jarrod,False
+1848,,,,Tyrone,Serrano,Y,,"Purok 10, Brgy. 51, ,",BANCASI,,Married,0.0,,False,,,2024-09-05,Ricz Gasul,,False,False,False,False,False,False,False,,,True,True,,,,2024-11-25,,,,Serrano Tyrone,False
+1849,,,,Cindy,Ramos,N,,"Purok 8, Brgy. 52, ,",BANCASI,1996-03-19,,0.0,,False,,,2024-09-05,Ricz Gasul,,False,False,False,False,True,False,False,,,False,False,,,,,,,,Ramos Cindy,False
+1850,,,,Damien,Shan,Q,,"Purok 3, Brgy. 50, PICTURE, SEX",BANCASI,,,0.0,,False,,,2024-09-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Shan Damien,False
+1851,,,,Julian,Ross,B,,"Purok 3, Brgy. 50, ,",BANCASI,,Single,0.0,,False,Active,,2024-09-05,Ricz Gasul,,False,True,True,True,True,True,False,,,False,False,,,,2024-11-25,,,,Ross Julian,False
+1852,,,,Jennifer,Collins,P,,"Purok 5, Brgy. 53, PICTURE, MALE",BANCASI,,,0.0,,False,,,2024-09-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Collins Jennifer,False
+1853,,,,Brittney,Sun,E,,"Purok 8, Brgy. 50, , FEMALE",BANCASI,,,0.0,,False,,,2024-09-05,Ricz Gasul,,False,True,False,True,False,True,False,,,True,True,,,,2024-11-25,,,,Sun Brittney,False
+1854,,,,Virginia,Patel,T,,"Purok 7, Brgy. 51, , FEMALE",MASAO,,,0.0,,False,,,2024-09-09,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Patel Virginia,False
+1855,,,,Calvin,Nara,T,,"Purok 12, Brgy. 49, , SEX",BANCASI,,,0.0,,False,,,2024-09-09,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Nara Calvin,False
+1856,,,,Edward,Miller,D,,"Purok 11, Brgy. 47, , FEMALE",BANCASI,1997-05-20,Single,18200.0,,False,,,2024-09-10,Ricz Gasul,,False,True,True,False,True,False,False,B.P.O,CHRISTIAN,False,False,,,,,,,,Miller Edward,False
+1857,,FEMALE,Mrs.,Ashlee,Tang,U,,"Purok 2, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-09-16,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Tang Ashlee,False
+1858,,,,Alicia,Xu,O,,"Purok 4, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-09-18,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Xu Alicia,False
+1859,,,,Lacey,Jai,K,,"Purok 8, Brgy. 48, , SEX",RIZAL,,,0.0,,False,,,2024-09-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,,,,,,,,Jai Lacey,False
+1872,,FEMALE,Ms.,Wendy,Romero,X,,"Purok 6, Brgy. 49, ,",MASAO,,Single,0.0,,True,Active,,2024-10-07,Ricz Gasul,,False,True,True,False,True,True,False,,INC,True,True,0.0,,,,,,,Romero Wendy,False
+1873,,MALE,Mr.,Carly,Luo,E,,"Purok 4, Brgy. 52, ,",MASAO,1980-03-21,Married,0.0,,True,Active,,2024-10-07,Ricz Gasul,,False,False,False,False,True,False,False,,CATHOLIC,False,False,0.0,,,,,,,Luo Carly,False
+1875,,FEMALE,Ms.,Jimmy,Ortega,X,,"Purok 6, Brgy. MEMBER ID, , MALE",MASAO,,,0.0,,False,,,2024-10-09,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Ortega Jimmy,False
+1876,,FEMALE,Ms.,Francisco,Martinez,K,,"Purok 5, Brgy. 46, , MALE",MASAO,,,0.0,,False,,,2024-10-09,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Martinez Francisco,False
+1877,,MALE,Mr.,Lance,Vazquez,M,,"Purok 11, Brgy. MEMBER ID, , SEX",BANCASI,,,0.0,,False,,,2024-10-09,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Vazquez Lance,False
+1878,,FEMALE,Mrs.,David,Robinett,F,,"Purok 4, Brgy. 47, , MALE",BANCASI,,,,,True,,,2024-10-09,Ricz Gasul,,False,True,True,True,True,True,True,,,False,True,0.0,,,2024-11-19,,,,Robinett David,False
+1879,,FEMALE,,Shannon,Liang,F,,"Purok 2, Brgy. 48, ,",BANCASI,,Single,0.0,,False,Active,,2024-10-14,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,0.0,,,2024-11-25,,,,Liang Shannon,False
+1880,,MALE,,Gary,Vazquez,O,,"Purok 7, Brgy. 45, , SEX",BANCASI,,Married,0.0,,False,Active,,2024-10-14,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,0.0,,,2024-11-25,,,,Vazquez Gary,False
+1881,,FEMALE,,Mitchell,Kumar,O,,"Purok 10, Brgy. 46, , FEMALE",BANCASI,,Single,0.0,,False,Active,,2024-10-14,Ricz Gasul,,False,True,True,True,True,True,False,,,False,True,0.0,,,2024-11-25,,,,Kumar Mitchell,False
+1882,,FEMALE,,Meredith,Raman,G,,"Purok 6, Brgy. 50, PICTURE, MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Raman Meredith,False
+1883,,FEMALE,,Edward,Patterson,R,,"Purok 12, Brgy. 51, , MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Patterson Edward,False
+1884,,MALE,Mr.,Marie,Gill,O,,"Purok 10, Brgy. 50, , MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Gill Marie,False
+1885,,FEMALE,,Tiffany,Wang,U,,"Purok 3, Brgy. 48, , FEMALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Wang Tiffany,False
+1886,,,,Miguel,Allen,Y,,"Purok 2, Brgy. MEMBER ID, PICTURE,",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Allen Miguel,False
+1887,,MALE,,Jaclyn,Cai,N,,"Purok 1, Brgy. 45, , MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Cai Jaclyn,False
+1888,,FEMALE,,Megan,Ramirez,I,,"Purok 9, Brgy. 47, , MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Ramirez Megan,False
+1889,,FEMALE,,Joseph,Martin,H,,"Purok 11, Brgy. 45, PICTURE, MALE",BANCASI,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Martin Joseph,False
+1890,,FEMALE,,Karl,Shan,E,,"Purok 11, Brgy. 47, PICTURE,",RIZAL,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,2024-11-14,,,,Shan Karl,False
+1891,,MALE,Mr.,Christine,Raji,Z,,"Purok 12, Brgy. 46, ,",RIZAL,,,0.0,,False,,,2024-10-14,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Raji Christine,False
+1892,,,,Lindsay,Xie,H,,"Purok 5, Brgy. 49, , SEX",RIZAL,,,0.0,,False,,,2024-10-15,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Xie Lindsay,False
+1894,,FEMALE,,Willie,Zhao,E,,"Purok 7, Brgy. 45, ,",RIZAL,,,0.0,,False,,,2024-10-16,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Zhao Willie,False
+1895,,FEMALE,,Kurt,Pal,F,,"Purok 4, Brgy. 47, , SEX",RIZAL,,,0.0,,False,,,2024-10-16,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Pal Kurt,False
+1896,,FEMALE,,George,McDonald,F,,"Purok 7, Brgy. 49, , SEX",RIZAL,,,0.0,,False,,,2024-10-16,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,McDonald George,False
+1897,,FEMALE,,Beth,Gutierrez,D,,"Purok 1, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-10-16,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Gutierrez Beth,False
+1898,,FEMALE,,Ian,Lopez,E,,"Purok 3, Brgy. 53, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-18,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Lopez Ian,False
+1901,,FEMALE,,Latoya,Shan,X,,"Purok 4, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-10-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Shan Latoya,False
+1902,,MALE,Mr.,Colin,Nath,G,,"Purok 1, Brgy. 50, , MALE",MASAO,,,0.0,,False,Active,,2024-10-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Nath Colin,False
+1903,,MALE,Mr.,Brenda,Mehta,V,,"Purok 9, Brgy. 49, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-21,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Mehta Brenda,False
+1904,,,,Franklin,Raji,V,,"Purok 7, Brgy. 47, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Raji Franklin,False
+1905,,,,Linda,Navarro,N,,"Purok 6, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Navarro Linda,False
+1906,,,,Kelli,Cai,A,,"Purok 5, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Cai Kelli,False
+1907,,,,Nancy,Schmidt,Y,,"Purok 2, Brgy. 53, , SEX",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Schmidt Nancy,False
+1908,,,,Megan,Taylor,D,,"Purok 12, Brgy. 48, ,",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Taylor Megan,False
+1909,,,,Bonnie,Goel,A,,"Purok 3, Brgy. 52, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Goel Bonnie,False
+1911,,,,Latoya,Xu,W,,"Purok 7, Brgy. 53, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Xu Latoya,False
+1912,,,,Mario,She,W,,"Purok 4, Brgy. 51, ,",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,She Mario,False
+1913,,,,Darren,Gill,D,,"Purok 8, Brgy. 48, PICTURE, FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Gill Darren,False
+1914,,,,Jacqueline,Hayes,C,,"Purok 8, Brgy. 45, , MALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Hayes Jacqueline,False
+1915,,,,Maurice,Goel,C,,"Purok 7, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Goel Maurice,False
+1916,,,,Devin,Ross,N,,"Purok 4, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Ross Devin,False
+1917,,,,Sydney,Bryant,J,,"Purok 11, Brgy. 50, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Bryant Sydney,False
+1918,,,,Megan,Stewart,L,,"Purok 7, Brgy. 46, , SEX",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Stewart Megan,False
+1919,,,,Ian,Richardson,T,,"Purok 9, Brgy. 52, ,",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Richardson Ian,False
+1920,,,,Randy,She,R,,"Purok 5, Brgy. 51, , SEX",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,She Randy,False
+1921,,,,Katrina,Becker,I,,"Purok 8, Brgy. 50, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-24,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Becker Katrina,False
+1922,,,,Lacey,Zheng,S,,"Purok 9, Brgy. 46, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Zheng Lacey,False
+1923,,,,Rafael,Hu,Y,,"Purok 7, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Hu Rafael,False
+1924,,,,Kyle,Scott,G,,"Purok 7, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Scott Kyle,False
+1925,,,,Jordan,Turner,M,,"Purok 8, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Turner Jordan,False
+1926,,,,Amy,Sun,S,,"Purok 11, Brgy. 51, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Sun Amy,False
+1927,,,,Dustin,Deng,K,,"Purok 6, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Deng Dustin,False
+1928,,,,Jasmine,Stewart,X,,"Purok 11, Brgy. 49, PICTURE, SEX",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Stewart Jasmine,False
+1929,,,,Pamela,Garcia,Y,,"Purok 12, Brgy. 45, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Garcia Pamela,False
+1930,,,,Ariana,Gray,Q,,"Purok 10, Brgy. MEMBER ID, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Gray Ariana,False
+1931,,,,Kristopher,Mehta,J,,"Purok 10, Brgy. MEMBER ID, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Mehta Kristopher,False
+1932,,,,Desiree,Dominguez,U,,"Purok 9, Brgy. 50, ,",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Dominguez Desiree,False
+1933,,,,Deanna,Perez,O,,"Purok 3, Brgy. 53, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Perez Deanna,False
+1934,,,,Marco,Lopez,W,,"Purok 12, Brgy. 51, PICTURE,",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Lopez Marco,False
+1935,,,,Casey,Yuan,K,,"Purok 11, Brgy. 45, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Yuan Casey,False
+1936,,,,Bryant,Garcia,E,,"Purok 9, Brgy. 46, , FEMALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Garcia Bryant,False
+1937,,,,Dominique,Prasad,R,,"Purok 1, Brgy. 47, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Prasad Dominique,False
+1938,,,,Maurice,Shan,J,,"Purok 1, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Shan Maurice,False
+1939,,,,Andre,Lopez,Y,,"Purok 11, Brgy. MEMBER ID, , SEX",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Lopez Andre,False
+1940,,,,Robin,Romero,W,,"Purok 4, Brgy. 52, , MALE",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Romero Robin,False
+1941,,,,Taylor,Cox,R,,"Purok 9, Brgy. MEMBER ID, , SEX",RIZAL,,,0.0,,False,,,2024-10-28,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Cox Taylor,False
+1942,,,,Alfredo,Moreno,W,,"Purok 7, Brgy. MEMBER ID, ,",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Moreno Alfredo,False
+1943,,,,Jenny,Nara,L,,"Purok 1, Brgy. 50, , MALE",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Nara Jenny,False
+1944,,,,Janet,Munoz,N,,"Purok 1, Brgy. 53, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Munoz Janet,False
+1945,,,,Sergio,Weber,U,,"Purok 7, Brgy. 50, , SEX",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Weber Sergio,False
+1946,,,,Erika,Gomez,T,,"Purok 1, Brgy. 50, PICTURE, MALE",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Gomez Erika,False
+1947,,,,Joseph,Harris,N,,"Purok 6, Brgy. 53, PICTURE, FEMALE",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Harris Joseph,False
+1948,,,,Grace,Griffin,J,,"Purok 2, Brgy. 47, PICTURE, SEX",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Griffin Grace,False
+1949,,,,Tina,Mehta,J,,"Purok 3, Brgy. 48, , MALE",RIZAL,,,0.0,,False,,,2024-10-29,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Mehta Tina,False
+1951,,FEMALE,,Kari,Kim,M,,"Purok 2, Brgy. 52, , SEX",RIZAL,,,0.0,,False,,,2024-10-30,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Kim Kari,False
+1952,,FEMALE,,Bethany,Chander,Z,,"Purok 8, Brgy. 52, ,",MASAO,,,0.0,,True,Active,,2024-11-04,Ricz Gasul,,False,True,True,True,True,True,True,,,False,False,0.0,,,,,,,Chander Bethany,False
+1953,,FEMALE,,Jennifer,Roberts,A,,"Purok 3, Brgy. 48, PICTURE,",RIZAL,,,0.0,,False,,,2024-11-05,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Roberts Jennifer,False
+1955,,,,Kyle,Patterson,H,,"Purok 7, Brgy. MEMBER ID, , MALE",RIZAL,,,0.0,,False,,,2024-11-06,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Patterson Kyle,False
+1956,,,,Alvin,Hu,A,,"Purok 1, Brgy. 45, , SEX",RIZAL,,,0.0,,False,,,2024-11-07,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Hu Alvin,False
+1957,,,,Brett,Mehta,E,,"Purok 1, Brgy. 45, , FEMALE",RIZAL,,,0.0,,False,,,2024-11-07,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Mehta Brett,False
+1958,,MALE,Mr.,Ruben,MuÃ±oz,C,,"Purok 3, Brgy. 47, ,",RIZAL,,,0.0,,False,Active,,2024-11-07,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,MuÃ±oz Ruben,False
+1959,,,,Erika,Rubio,O,,"Purok 8, Brgy. 48, , SEX",BANCASI,,,0.0,,False,,,2024-11-08,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Rubio Erika,False
+1960,,,,Stanley,Malhotra,N,,"Purok 8, Brgy. 53, , FEMALE",BANCASI,,,0.0,,False,,,2024-11-11,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,,,,,,,Malhotra Stanley,False
+1961,,,,Melinda,Navarro,S,,"Purok 9, Brgy. 50, ,",MASAO,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,Michael,,,,,Navarro Melinda,False
+1962,,,,Ross,Sanz,U,,"Purok 10, Brgy. MEMBER ID, , MALE",,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,,,,,,Sanz Ross,False
+1963,,,,Jon,Gao,E,,"Purok 7, Brgy. 48, , MALE",BANCASI,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,Michael,,,,,Gao Jon,False
+1964,,,,Jaime,Gutierrez,H,,"Purok 1, Brgy. 45, , MALE",BANCASI,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,Michael,,,,,Gutierrez Jaime,False
+1965,,,,Bianca,Liu,A,,"Purok 1, Brgy. 47, , MALE",BANCASI,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,Michael,,,,,Liu Bianca,False
+1966,,,,Tasha,Deng,Y,,"Purok 2, Brgy. 53, , FEMALE",BANCASI,,,0.0,,False,,,2024-11-19,Ricz Gasul,,False,False,False,False,False,False,False,,,False,False,0.0,2024-11-19,,,,,,Deng Tasha,False
