@@ -1,0 +1,15 @@
+Loaded 194 rows, 10 columns from membership fee source.
+MEMFEE ID duplicates: 0 (should be 0 - primary key).
+
+1 row(s) are empty stub records (no MEMBER) - flagged.
+0 row(s) have a MEMBER but no AMOUNT recorded - flagged.
+6 row(s) explicitly record AMOUNT = 0.
+2 row(s) have a positive AMOUNT but no PAYED DATE.
+13 row(s) share the same MEMBER + AMOUNT + PAYED DATE as another row - likely the same payment encoded twice. Left in the data (not deleted), flagged for manual confirmation before removing either copy.
+
+Left join to customers_info: 1 row(s) reference a MEMBER ID that has no match in customers_info.csv - name and project are unknown for these (flagged FLAG_MEMBER_NOT_FOUND). Member IDs: [1900.0]
+
+Saved cleaned + joined row-level file: D:\Documents Nato\RAHUR\ML Foundation Data Cleaning with Python\processed_data\membership_fee_cleaned.csv (194 rows).
+
+GRAND TOTAL membership fees collected (empty stub row excluded, missing-amount rows counted as 0): 72,400.00 across 193 entries, 184 distinct members.
+Saved aggregation workbook: D:\Documents Nato\RAHUR\ML Foundation Data Cleaning with Python\processed_data\membership_fee_aggregated.xlsx (sheets: By Member (with Project), By Project, By Year, Data Quality Flags).

@@ -1,0 +1,6 @@
+Loaded 460 rows, 38 columns from source (latin1 encoding).
+Inferred SEX from title for 0 rows.
+WARNING: 1 rows have an implausible DATE OF BIRTH (after 2015) - kept as-is, needs manual review. Member IDs: ['59']
+CONTACT NO: 460 value(s) didn't match a valid PH mobile format and were blanked.
+
+Saved cleaned file: D:\Documents Nato\RAHUR\ML Foundation Data Cleaning with Python\customers_info_cleaned.csv (460 rows, 40 columns).
