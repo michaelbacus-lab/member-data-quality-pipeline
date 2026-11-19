@@ -1,16 +1,49 @@
-Data Notice
+# Member Data Quality Pipeline
 
-This project was inspired by a real-world Membership and Property Management System that I developed during my previous employment.
+A cross-platform Python pipeline that cleans, validates, and aggregates synthetic membership data.
 
-To protect confidential business information:
+## Requirements
 
-No production datasets are included.
-No customer information is included.
-No financial records are included.
-Sample datasets are synthetic and created solely for demonstration purposes.
+- Python 3.9 or newer
+- pip
 
-The cleaning logic and business rules are based on real operational scenarios while respecting data privacy and confidentiality.
+## Setup
 
-Business Context
+From the repository root:
 
-This project simulates a data quality pipeline for a membership and property management system. The original system supported member registration, payment tracking, document management, and financial reporting for a real estate organization. The Python pipeline validates and standardizes exported CSV data before it is loaded into downstream analytical systems.
+```bash
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+On systems where `python` is not available, use `python3` instead.
+
+## Run
+
+```bash
+python src/run_pipeline.py
+```
+
+The pipeline works on Windows, macOS, and Linux. It uses `pathlib` and paths relative to the repository, so no machine-specific absolute paths are required.
+
+Scripts may also be run individually:
+
+```bash
+python src/clean_customers.py
+python src/clean_amortization.py
+python src/clean_membership_fee.py
+python src/clean_proc_fee.py
+```
+
+Run `clean_customers.py` before `clean_membership_fee.py`, because the membership script joins to its processed output.
+
+## Outputs
+
+- Raw inputs: `data/raw/`
+- Processed CSV files: `data/processed/`
+- Aggregated Excel workbooks: `data/aggregated-xlsx/`
+- Text reports: `reports/`
+
+## Data Notice
+
+This project uses synthetic demonstration data and contains no production datasets, customer records, or financial records.
